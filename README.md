@@ -15,8 +15,7 @@ Play against the computer through a clean and interactive web interface.
 ---
 
 ## 🛠️ Tech Stack
-- **Backend**: Python, Flask  
-- **Frontend**: HTML, CSS  
+- **Backend**: Python
 - **Logic**: Python `random` module  
 
 ---
